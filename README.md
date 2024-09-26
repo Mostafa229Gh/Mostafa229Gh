@@ -1,7 +1,11 @@
 <div align="center">
+  <img src="./Picture.png" height="280" alt="Profile" />
+</div>
+
+<div align="center">
   <h1>Mostafa Gholami</h1>
 </div>
-<br/><br/><br/> 
+<br/><br/> 
 <div>
   <h2>About me</h2>
   <p>a front-end developer specializing in React and Tailwind frameworks. I am proficient in Python and have experience in developing Telegram bots. Additionally, I have over 5 years of experience in graphic design with full mastery of Photoshop and Illustrator.<br/><br/><br/> </p>
