@@ -9,6 +9,9 @@
 <div>
   <h2>About me</h2>
   <p>a front-end developer specializing in React and Tailwind frameworks. I am proficient in Python and have experience in developing Telegram bots. Additionally, I have over 5 years of experience in graphic design with full mastery of Photoshop and Illustrator.<br/><br/><br/> </p>
+  
+> **My Personal Portfolio Website:** [Click](https://www.motarex.info/) 
+
 
 <div align="center">
   <h2 align="left">Socials</h2>
