@@ -10,7 +10,6 @@
   <h2>About me</h2>
   <p>a front-end developer specializing in React and Tailwind frameworks. I am proficient in Python and have experience in developing Telegram bots. Additionally, I have over 5 years of experience in graphic design with full mastery of Photoshop and Illustrator.<br/><br/><br/> </p>
   
-> **My Personal Portfolio Website:** [Click](https://www.motarex.info/) 
 
 
 <div align="center">
@@ -43,8 +42,4 @@
   <img src="https://skillicons.dev/icons?i=ai" height="40" alt="illustrator logo"  />
 </div>
   <br/> 
-</div>
-<div>
-  <h2>GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafa229gh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=light&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
