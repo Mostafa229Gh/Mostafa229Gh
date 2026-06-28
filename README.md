@@ -5,10 +5,13 @@
 <div align="center">
   <h1>Mostafa Gholami</h1>
 </div>
+
+> **My Personal Portfolio Website:** [Click](https://www.motarex.ir/)
+
 <br/><br/> 
 <div>
   <h2>About me</h2>
-  <p>a front-end developer specializing in React and Tailwind frameworks. I am proficient in Python and have experience in developing Telegram bots. Additionally, I have over 5 years of experience in graphic design with full mastery of Photoshop and Illustrator.<br/><br/><br/> </p>
+  <p>Frontend developer passionate about building clean, user-friendly web applications with React and Next.js, while exploring AI, Python, and algorithmic programming through side projects and continuous learning.<br/><br/><br/> </p>
   
 
 
@@ -30,7 +33,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github logo"  />
